@@ -14,4 +14,4 @@ display. The password now does show up in the display.
 This assignment was very difficult to do and I am not sure if I got everything. 
 But the password shows up so tht is all I can ask for.
 
-![alt text](homework/make-a-password/password.jpeg)
+![alt text](Michelle Oakley/Documents/bootcamp/homework/make-a-password/password.jpeg)
